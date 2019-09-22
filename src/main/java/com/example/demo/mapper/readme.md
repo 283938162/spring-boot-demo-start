@@ -1,0 +1,5 @@
+Dao调用Mapper接口完成数据层的各种操作
+业务层直接调用Dao即可
+即：
+service业务层调用dao数据层
+dao数据层调用mapper使用其中的sql语句
